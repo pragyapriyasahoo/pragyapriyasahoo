@@ -1,46 +1,42 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F472B6&text=Pragya%20Priya%20Sahoo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h2 align="center">🌷 AI Builder • Co-Founder & COO @ VOIKES Technologies • Computer Science Student</h2>
+<h1 align="center">
+🌷 hey, i'm Pragya Priya Sahoo
+</h1>
 
 <p align="center">
-Building AI that solves real-world problems while learning something new every day. ✨
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&center=true&vCenter=true&width=700&color=F472B6&lines=Artificial+Intelligence+🤖;Generative+AI+Explorer+✨;Building+Real+Products+🚀;Always+Curious+Always+Learning+🌸"/>
+AI Builder • Co-Founder & COO @ VOIKES Technologies • CS Student
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=pragyapriyasahoo&style=for-the-badge&color=ff69b4"/>
+<i>"Building technology that makes life a little more human."</i>
 </p>
 
 ---
 
 # 🌸 About Me
 
-Hi! I'm **Pragya** 👋
+Hi! I'm Pragya 👋
 
-💗 Third-year Computer Science student passionate about Artificial Intelligence, Generative AI and building products that create real impact.
+I'm a Computer Science student who enjoys building AI-powered products that solve real-world problems.
 
-🚀 Currently serving as **Co-Founder & COO at VOIKES Technologies**, where we're building accessibility-focused AI solutions.
+Currently co-building **VOIKES Technologies**, where we're creating accessibility-first technology with AI.
 
-🌷 I love turning ideas into products that people can actually use.
-
----
-
-# 🚀 Currently
-
-- 🤖 Building **VOKA**
-- 📚 Solving LeetCode consistently
-- 🌱 Exploring AI Engineering & LLMs
-- 💻 Learning Full Stack Development
-- ✨ Shipping projects instead of just planning them
+Outside of coding, you'll probably find me listening to music, solving LeetCode, brainstorming new ideas... or eating fries. 🍟
 
 ---
 
-# 💖 Tech Stack
+# 🚀 What I'm Working On
+
+🤖 VOKA — AI Companion
+
+👓 VOXLENS — Smart Glasses for Deaf
+
+🧠 Learning AI Engineering & LLMs
+
+📚 Improving my DSA every day
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
 
@@ -50,49 +46,37 @@ Hi! I'm **Pragya** 👋
 
 ---
 
-# 🌟 Featured Projects
+# 🌷 Projects
 
 ## 🤖 VOKA
 
 AI-powered companion focused on accessibility, emotional support and intelligent conversations.
 
-**Tech:** Python • AI • LLMs • Speech Processing
-
 ---
 
 ## 👓 VOXLENS
 
-Smart glasses that convert speech into real-time captions for people with hearing impairments.
+Smart glasses that convert speech into real-time captions.
 
 ---
 
 ## 🧠 TrackED
 
-AI-powered facial recognition system for attendance and academic management.
+AI-powered facial recognition system for attendance management.
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-🥇 TechExpo Winner
+✨ Co-Founder & COO @ VOIKES Technologies
 
-🥇 ProTech Winner
+🏆 TechExpo Winner
 
-🤖 Smart India Hackathon Participant
+🏆 ProTech Winner
 
 📄 Patent Filed for VOKA
 
-💼 Co-Founder & COO @ VOIKES Technologies
-
----
-
-# 🌱 Currently Learning
-
-- Data Structures & Algorithms
-- Large Language Models (LLMs)
-- AI Agents
-- Machine Learning
-- System Design
+🤖 AI • ML • LLM Enthusiast
 
 ---
 
@@ -114,71 +98,33 @@ AI-powered facial recognition system for attendance and academic management.
 
 ---
 
-# 🎀 Beyond Code
+# 🌸 A Little More About Me
 
-🌸 I enjoy turning ideas into real products.
+💗 I love turning ideas into products.
 
-🍟 Fries are my comfort food.
+🌷 Accessibility in technology genuinely excites me.
 
-🥤 Coca-Cola will always win over coffee.
+🎧 Music is always on while coding.
 
-🎧 Music makes every debugging session better.
+✨ I enjoy learning something new every day.
 
-💗 I believe the best technology is the one that genuinely helps people.
+🍟 Fries > Everything.
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pragyapriyasahoo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pragyapriyasahoo&theme=tokyonight&hide_border=true"/>
-
-</p>
+🥤 Coca-Cola > Coffee.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pragyapriyasahoo&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyapriyasahoo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🌷 Current Status
+# 🌱 Current Status
 
 ```text
-🌸 Building AI
+Learning 📚
 
-🚀 Working on New Ideas
+Building 🚀
 
-📚 Learning Something Every Day
+Debugging 🐛
 
-🎧 Vibing with Music
-
-🍟 Probably Thinking About Fries
+Repeating 🔁
 ```
-
----
-
-# 💭 Favorite Quote
-
-> *"Dream big. Start small. Build consistently."* ✨
 
 ---
 
@@ -186,27 +132,15 @@ AI-powered facial recognition system for attendance and academic management.
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/pragya-priya-sahoo-914620337/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:pragyapriyasahoo102GMAIL.COM">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-> *(Enable this after setting up the GitHub Action)*
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/pragyapriyasahoo/pragyapriyasahoo/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -216,8 +150,6 @@ AI-powered facial recognition system for attendance and academic management.
 
 ### 🌷 Thanks for stopping by!
 
-*"Code with purpose. Learn with curiosity. Build for people."* 💖
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=F472B6&section=footer"/>
+<i>Build with purpose. Learn with curiosity. Stay kind. 💖</i>
 
 </div>
