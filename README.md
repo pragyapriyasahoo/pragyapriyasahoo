@@ -1,38 +1,54 @@
-<h1 align="center">
-🌷 hey, i'm Pragya Priya Sahoo
-</h1>
+<h1 align="center">🌷 hey, i'm Pragya Priya Sahoo</h1>
 
 <p align="center">
-AI Builder • Co-Founder & COO @ VOIKES Technologies • CS Student
+<b>Building AI for accessibility, healthcare & people who deserve better technology.</b>
 </p>
 
 <p align="center">
-<i>"Building technology that makes life a little more human."</i>
+<i>Computer Science Student • Co-Founder & COO @ VOIKES Technologies</i>
 </p>
 
 ---
 
 # 🌸 About Me
 
-Hi! I'm Pragya 👋
+Hey! I'm Pragya 👋
 
-I'm a Computer Science student who enjoys building AI-powered products that solve real-world problems.
+I'm a third-year Computer Science student, AI enthusiast, and Co-Founder & COO at **VOIKES Technologies**.
 
-Currently co-building **VOIKES Technologies**, where we're creating accessibility-first technology with AI.
+What excites me the most isn't just writing code—it's taking an idea from a random late-night conversation and turning it into something people can actually use.
 
-Outside of coding, you'll probably find me listening to music, solving LeetCode, brainstorming new ideas... or eating fries. 🍟
+Right now, I'm building AI-powered products focused on accessibility, healthcare, and solving real-world problems because I genuinely believe technology should make life easier, not more complicated.
+
+Building a startup has taught me that success isn't about having all the answers—it's about staying curious, learning from every mistake, and showing up every single day ready to build something better than yesterday.
+
+That mindset comes from years of competing in judo as well. The discipline, resilience, and consistency I learned on the mat are the same values I bring into building products, leading a startup, and solving problems.
+
+When I'm not coding, you'll probably find me zoned out with a can of Coca-Cola, listening to music, and thinking about the next project that refuses to leave my brain. 🍟🥤
 
 ---
 
-# 🚀 What I'm Working On
+# 🚀 What I'm Building
 
-🤖 VOKA — AI Companion
+### 🤖 VOKA
 
-👓 VOXLENS — Smart Glasses for Deaf
+An AI-powered companion designed to make technology feel more human through intelligent conversations, emotional support, and accessibility-first experiences.
 
-🧠 Learning AI Engineering & LLMs
+### 👓 VOXLENS
 
-📚 Improving my DSA every day
+Smart glasses that convert speech into real-time captions, helping people with hearing impairments communicate more naturally.
+
+### 🌱 VOIKES Technologies
+
+VOIKES is more than just a startup to me.
+
+It's where crazy ideas become prototypes, prototypes become products, and every challenge becomes another lesson.
+
+We're building AI with one simple goal:
+
+> **Create technology that helps people, not just impresses them.**
+
+Watching an idea grow into something that can genuinely improve someone's life is probably my favorite part of this journey.
 
 ---
 
@@ -46,37 +62,50 @@ Outside of coding, you'll probably find me listening to music, solving LeetCode,
 
 ---
 
-# 🌷 Projects
+# 🏆 A Few Things I'm Proud Of
 
-## 🤖 VOKA
+🌷 Co-Founder & COO @ VOIKES Technologies
 
-AI-powered companion focused on accessibility, emotional support and intelligent conversations.
+🥇 Winner — TechExpo
 
----
+🥇 Winner — ProTech
 
-## 👓 VOXLENS
+🤖 Smart India Hackathon Participant
 
-Smart glasses that convert speech into real-time captions.
+🥉 Bronze Medalist — Judo Nationals
 
----
-
-## 🧠 TrackED
-
-AI-powered facial recognition system for attendance management.
-
----
-
-# 🏆 Highlights
-
-✨ Co-Founder & COO @ VOIKES Technologies
-
-🏆 TechExpo Winner
-
-🏆 ProTech Winner
+🥈 Silver Medalist — South Zone Judo Championship
 
 📄 Patent Filed for VOKA
 
-🤖 AI • ML • LLM Enthusiast
+💗 Passionate about AI, Accessibility & Human-Centered Innovation
+
+---
+
+# 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- AI Engineering
+- Full Stack Development
+- System Design
+
+---
+
+# 🌙 Future Goals
+
+✨ Build AI products that genuinely improve people's lives.
+
+🚀 Grow VOIKES into a globally recognized technology company.
+
+🤖 Work at the intersection of AI, accessibility, healthcare, and human-centered innovation.
+
+🌍 Build products that people remember because they made life easier—not because they used fancy buzzwords.
+
+🎯 Mentor aspiring founders and engineers while continuing to learn every single day.
+
+💗 Stay curious. Keep building. Never settle.
 
 ---
 
@@ -98,51 +127,35 @@ AI-powered facial recognition system for attendance management.
 
 ---
 
-# 🌸 A Little More About Me
+# 🌸 Beyond Code
 
-💗 I love turning ideas into products.
+🥋 National-level Judoka who believes discipline beats motivation.
 
-🌷 Accessibility in technology genuinely excites me.
+🍟 Fries are my comfort food.
 
-🎧 Music is always on while coding.
+🥤 Coca-Cola will always win over coffee.
 
-✨ I enjoy learning something new every day.
+🎧 Music is almost always playing in the background.
 
-🍟 Fries > Everything.
+💡 My best ideas usually show up when I'm supposed to be doing something completely different.
 
-🥤 Coca-Cola > Coffee.
+🌷 Curiosity is probably my biggest strength.
 
----
-
-# 🌱 Current Status
-
-```text
-Learning 📚
-
-Building 🚀
-
-Debugging 🐛
-
-Repeating 🔁
-```
+✨ I believe the best products are built with empathy before technology.
 
 ---
 
-# 🤝 Let's Connect
+# 💭 Things I Believe
 
-<p align="center">
+> Build things that matter.
 
-<a href="https://www.linkedin.com/in/pragya-priya-sahoo-914620337/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+> Stay curious.
 
-&nbsp;&nbsp;
+> Learn loudly.
 
-<a href="mailto:pragyapriyasahoo102GMAIL.COM">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+> Celebrate small wins.
 
-</p>
+> Never stop experimenting.
 
 ---
 
@@ -150,6 +163,12 @@ Repeating 🔁
 
 ### 🌷 Thanks for stopping by!
 
-<i>Build with purpose. Learn with curiosity. Stay kind. 💖</i>
+If you've made it this far, we probably have something in common—
+
+**we both enjoy building things that matter.**
+
+Maybe our paths will cross while building the future.
+
+✨ Until then, keep creating.
 
 </div>
