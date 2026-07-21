@@ -1,3 +1,5 @@
+<h1 align="center">Hey, I am Pragya Priya Sahoo</h1>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:C9A0FF&height=220&section=header&text=Hey,%20I%20am%20Pragya%20Priya%20Sahoo&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20COO%20%40%20VOIKES%20Technologies&descAlignY=55&descSize=18"/>
