@@ -1,28 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:C9A0FF&height=220&section=header&text=Hey,%20I'm%20Pragya%20💅&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code.%20Coffee.%20Coca-Cola.%20Repeat.&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:C9A0FF&height=220&section=header&text=Pragya%20Priya%20Sahoo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20COO%20%40%20VOIKES%20Technologies&descAlignY=55&descSize=18"/>
 
-<a href="https://github.com/pragya">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=550&lines=Co-Founder+%26+COO+%40+VOIKES+Technologies;3rd+Year+CSE+%40+PSIT+Kanpur;Building+AI+that+actually+remembers+you;Fueled+by+Coca-Cola+%26+Fries+🍟🥤" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/pragya-priya-sahoo-914620337/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=550&lines=Builder+%7C+Explorer+%7C+Problem-Solver;3rd+Year+CSE+%40+PSIT+Kanpur;Building+AI+that+actually+remembers+you" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br/>
 
-## 💅 About This Diva-in-Code
+## 🎀 About Me
 
-```javascript
-const pragya = {
-  role: "Co-Founder & COO @ VOIKES Technologies",
-  currentlyStudying: "B.Tech CSE, 3rd Year @ PSIT Kanpur",
-  buildsWithAttitude: true,
-  runsOn: ["coca-cola", "fries", "chaos", "deadlines"],
-  vibe: "girly on the outside, debugger on the inside 💻🎀",
-};
-```
+I'm a Computer Science undergraduate and startup co-founder building AI-driven products across conversational AI, NLP, and computer vision. As Co-Founder & COO of VOIKES Technologies, I lead product strategy for assistive-tech built to genuinely help people — from elderly users to the hearing impaired.
 
-Not your average coder — I ship products, run a startup, and still make time to accessorize my commit messages. 🎀
+I like owning things end-to-end: from architecture to a patent filing to the pitch deck. I run on curiosity, a filed patent, a couple of hackathon wins, and — not gonna lie — a fair bit of Coca-Cola and fries. 🍟🥤
 
 <br/>
 
@@ -33,14 +25,14 @@ Not your average coder — I ship products, run a startup, and still make time t
 <td width="50%">
 
 ### 🧠 VOKA
-AI companion platform with **persistent memory** — she remembers, unlike your ex.
-**Patent filed** 📜 — this is the architecture powering my other builds too.
+AI companion platform with **persistent memory**, built for elderly and differently-abled users — real-time voice interaction, fall-detection, and emotionally adaptive conversations.
+**Patent filed** 📜 (App No. 202611024414)
 
 </td>
 <td width="50%">
 
 ### 👓 VOXLENS
-Smart glasses that turn **speech into text** for the deaf community.
+Smart glasses that turn **speech into text** in real time for the hearing impaired.
 🏆 **Winner — TechExpo 2025**
 
 </td>
@@ -56,7 +48,7 @@ Facial-recognition attendance system, **live and deployed** at PSIT.
 <td width="50%">
 
 ### 💄 Myra <img src="https://img.shields.io/badge/status-building-ff69b4?style=flat-square"/>
-Your **personal diva assistant** (Android app) — fashion suggestions, packing help, and she remembers every outfit you've ever worn. Basically a bestie who never forgets your fit.
+A personal fashion assistant (Android app) — outfit suggestions, packing help, and it remembers every fit you've worn.
 
 </td>
 </tr>
@@ -64,21 +56,16 @@ Your **personal diva assistant** (Android app) — fashion suggestions, packing 
 
 <br/>
 
-## 🍟 Fuel Stats
+## 🛠️ Skills
+
+**Languages:** C · C++ (OOP) · Python · Java · SQL · HTML · CSS
+
+**Libraries & Tools:** NumPy · Pandas · Matplotlib · Seaborn · Scikit-learn · NLTK · Jupyter Notebook · Git & GitHub
+
+**Data Science & ML:** EDA · Data Cleaning & Preprocessing · Statistical Analysis · Decision Tree Classification · Feature Engineering · Data Visualization · Sentiment Analysis (VADER)
 
 <div align="center">
-<img src="https://img.shields.io/badge/Coca--Cola-000000?style=for-the-badge&logo=cocacola&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fries-FFB6C1?style=for-the-badge&logo=food&logoColor=black"/>
-<img src="https://img.shields.io/badge/Deadlines-C9A0FF?style=for-the-badge"/>
-</div>
-
-<br/>
-
-## 🎀 GitHub Aura
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pragya&show_icons=true&theme=transparent&title_color=D291BC&icon_color=FFB6C1&text_color=ffffff&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pragya&theme=transparent&hide_border=true&ring=D291BC&fire=FFB6C1&currStreakLabel=D291BC" width="48%"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git,github,mysql,vscode" />
 </div>
 
 <br/>
