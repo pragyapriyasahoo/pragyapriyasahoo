@@ -51,17 +51,12 @@ Facial-recognition attendance system, **live and deployed** at PSIT.
 
 ### 💄 Myra <img src="https://img.shields.io/badge/status-building-ff69b4?style=flat-square"/>
 A personal fashion assistant (Android app) — outfit suggestions, packing help, and it remembers every fit you've worn.
-
-</td>
-</tr>
-</table>
+</td> </tr> <tr> <td colspan="2">
 🏫 CampusMind AI
 
 An intelligent operating system for modern campuses — combines an AI campus assistant, digital twin, campus intelligence dashboard, smart navigation, and predictive maintenance in one platform. Stack: Next.js · React · TypeScript · Tailwind CSS · Leaflet · Firebase · Groq AI
 
 </td> </tr> </table> <br/>
-
-<br/>
 
 ## 🛠️ Skills
 
