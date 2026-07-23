@@ -2,7 +2,7 @@
 
 <div align="center">
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:C9A0FF&height=220&section=header&text=Hey,%20I%20am%20Pragya%20Priya%20Sahoo&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20COO%20%40%20VOIKES%20Technologies&descAlignY=55&descSize=18"/>
 
 <a href="https://www.linkedin.com/in/pragya-priya-sahoo-914620337/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=550&lines=Builder+%7C+Explorer+%7C+Problem-Solver;3rd+Year+CSE+%40+PSIT+Kanpur;Building+AI+that+actually+remembers+you" alt="Typing SVG" />
