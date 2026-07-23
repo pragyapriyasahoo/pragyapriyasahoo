@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6E1,100:C9A0FF&height=220&section=header&text=Hey,%20I%20am%20Pragya%20Priya%20Sahoo&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Co-Founder%20%26%20COO%20%40%20VOIKES%20Technologies&descAlignY=55&descSize=18"/>
+
 
 <a href="https://www.linkedin.com/in/pragya-priya-sahoo-914620337/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=D291BC&center=true&vCenter=true&width=550&lines=Builder+%7C+Explorer+%7C+Problem-Solver;3rd+Year+CSE+%40+PSIT+Kanpur;Building+AI+that+actually+remembers+you" alt="Typing SVG" />
@@ -28,7 +28,7 @@ I like owning things end-to-end: from architecture to a patent filing to the pit
 
 ### 🧠 VOKA
 AI companion platform with **persistent memory**, built for elderly and differently-abled users — real-time voice interaction, fall-detection, and emotionally adaptive conversations.
-**Patent filed** 📜 (App No. 202611024414)
+**Patent filed** 📜 (App No. 202611024414) 🏆 **Winner — ProTech 2025** **SIH Waitlist** 
 
 </td>
 <td width="50%">
@@ -44,7 +44,7 @@ Smart glasses that turn **speech into text** in real time for the hearing impair
 
 ### 📸 TrackED
 Facial-recognition attendance system, **live and deployed** at PSIT.
-🏆 **Winner — ProTech 2025**
+
 
 </td>
 <td width="50%">
@@ -55,6 +55,11 @@ A personal fashion assistant (Android app) — outfit suggestions, packing help,
 </td>
 </tr>
 </table>
+🏫 CampusMind AI
+
+An intelligent operating system for modern campuses — combines an AI campus assistant, digital twin, campus intelligence dashboard, smart navigation, and predictive maintenance in one platform. Stack: Next.js · React · TypeScript · Tailwind CSS · Leaflet · Firebase · Groq AI
+
+</td> </tr> </table> <br/>
 
 <br/>
 
